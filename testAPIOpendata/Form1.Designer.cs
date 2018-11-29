@@ -418,7 +418,7 @@
             this.ClientSize = new System.Drawing.Size(840, 520);
             this.Controls.Add(this.mainSplitH);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "API Data.gouv.fr";
             this.contextTreeview.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();

@@ -1,1 +1,4 @@
 C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\testAPIOpendata\obj\Debug\testAPIOpendata.csprojAssemblyReference.cache
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\testAPIOpendata.exe.config
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.exe
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.pdb
