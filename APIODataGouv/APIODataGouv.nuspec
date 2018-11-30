@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CLIENT.API.DATA.GOUV.FR</id>
+    <version>1.00</version>
+    <title>Client API data.gouv.fr</title>
+    <authors>Grand Narbonne communauté d'agglomération</authors>
+    <owners>Grand Narbonne communauté d'agglomération</owners>
+    <licenseUrl>http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html</licenseUrl>
+    <projectUrl>https://github.com/legrandnarbonne/Data.gouv.fr-API</projectUrl>
+    <iconUrl>https://avatars0.githubusercontent.com/u/39185794</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Client API data.gouv.fr</description>
+    <releaseNotes>.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>api client</tags>
+  </metadata>
+</package>

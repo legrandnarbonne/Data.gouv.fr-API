@@ -30,6 +30,8 @@ namespace testAPIOpendata
             comboBox1.SelectedIndex = 0;
             txtKey.Text = "";
 
+            _r = new APIRequest(txtURL.Text, txtKey.Text);
+
         }
 
         #region Display function
