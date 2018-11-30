@@ -8,3 +8,17 @@ C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\APIO
 C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\APIODataGouv\obj\Debug\APIODataGouv.csproj.CopyComplete
 C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\APIODataGouv\obj\Debug\APIODataGouv.dll
 C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\APIODataGouv\obj\Debug\APIODataGouv.pdb
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\APIODataGouv.dll.config
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\APIODataGouv.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\APIODataGouv.pdb
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\Newtonsoft.Json.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\System.Web.Http.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\System.Net.Http.Formatting.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\Newtonsoft.Json.xml
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\System.Web.Http.xml
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\System.Net.Http.Formatting.xml
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\fr\System.Web.Http.resources.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\obj\Debug\APIODataGouv.csprojResolveAssemblyReference.cache
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\obj\Debug\APIODataGouv.dll
+D:\dev\Visual studio\testAPIOpendata\APIODataGouv\obj\Debug\APIODataGouv.pdb

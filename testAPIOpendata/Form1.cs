@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace testAPIOpendata
 {
-    public partial class Form1 : Form
+    public partial class MainClientTestForm : Form
     {
         APIRequest _r;
 
@@ -20,7 +20,7 @@ namespace testAPIOpendata
         int _totalItem;
         int _currentPage;
 
-        public Form1()
+        public MainClientTestForm()
         {
             InitializeComponent();
 

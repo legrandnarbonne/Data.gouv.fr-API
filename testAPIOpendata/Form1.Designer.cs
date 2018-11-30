@@ -1,6 +1,6 @@
 ﻿namespace testAPIOpendata
 {
-    partial class Form1
+    partial class MainClientTestForm
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainClientTestForm));
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.treeView1 = new System.Windows.Forms.TreeView();
@@ -411,14 +411,14 @@
             this.label2.TabIndex = 12;
             this.label2.Text = "URL API  :";
             // 
-            // Form1
+            // MainClientTestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(840, 520);
             this.Controls.Add(this.mainSplitH);
-            this.Name = "Form1";
-            this.Text = "API Data.gouv.fr";
+            this.Name = "MainClientTestForm";
+            this.Text = "API Data.gouv.fr client test";
             this.contextTreeview.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();

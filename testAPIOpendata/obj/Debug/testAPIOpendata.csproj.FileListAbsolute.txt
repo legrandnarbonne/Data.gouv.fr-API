@@ -2,3 +2,14 @@ C:\Users\dompjere\Downloads\Data.gouv.fr-API-master\Data.gouv.fr-API-master\test
 D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\testAPIOpendata.exe.config
 D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.exe
 D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.pdb
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\testAPIOpendata.exe
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\testAPIOpendata.pdb
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\APIODataGouv.dll
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\Newtonsoft.Json.dll
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\APIODataGouv.pdb
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\bin\Debug\Newtonsoft.Json.xml
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.csprojResolveAssemblyReference.cache
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.MainClientTestForm.resources
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.FrmNew.resources
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.Properties.Resources.resources
+D:\dev\Visual studio\testAPIOpendata\testAPIOpendata\obj\Debug\testAPIOpendata.csproj.GenerateResource.Cache
