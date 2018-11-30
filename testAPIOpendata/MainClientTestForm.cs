@@ -28,7 +28,7 @@ namespace testAPIOpendata
             comboBox1.Items.Add("DataSet");
 
             comboBox1.SelectedIndex = 0;
-            txtKey.Text = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiNTliNjdkNzA4OGVlMzgwODEyY2RlMGZlIiwidGltZSI6MTUzOTIzODE5NC4yMzMzNDZ9.Tqzd7WocTdXtCCEA9P3AlkCX-Fdbrr3vXZ7QVm2GOEQ";
+            txtKey.Text = "";
 
         }
 
