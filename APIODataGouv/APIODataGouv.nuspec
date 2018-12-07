@@ -14,5 +14,14 @@
     <releaseNotes>.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>api client</tags>
+
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="11.0.1" />
+    </dependencies>
   </metadata>
+    <files>
+      <file src="bin\Release\APIODataGouv.dll" target="lib" />
+    </files>
+    
+
 </package>
