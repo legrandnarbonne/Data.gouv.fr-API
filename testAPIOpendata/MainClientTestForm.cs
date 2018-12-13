@@ -58,20 +58,24 @@ namespace testAPIOpendata
             }
             else
             {
-                //{"errors": {"title": ["Ce champ est requis."]}}
-                var deserializedResponse = response.Content == null ? null : JsonConvert.DeserializeObject<Dictionary<string, object>>(response.Content);
-                var message = "";
-
-                if (deserializedResponse != null)
+                if (response.Content.StartsWith("<!DOCTYPE html><html lang=\"\">", StringComparison.InvariantCultureIgnoreCase))
+                    MessageBox.Show(response.Status + ": Réponse inattendu", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                else
                 {
-                    message = deserializedResponse.Keys.Contains("message") ?
-                                deserializedResponse["message"].ToString() :
-                                (deserializedResponse.Keys.Contains("errors") ?
-                                    deserializedResponse["errors"].ToString().Replace("{", "").Replace("}", "").Replace("[", "").Replace("]", "") :
-                                    "");
-                }
+                    var deserializedResponse = response.Content == null ? null : JsonConvert.DeserializeObject<Dictionary<string, object>>(response.Content);
+                    var message = "";
 
-                MessageBox.Show(response.Status + ": " + message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    if (deserializedResponse != null)
+                    {
+                        message = deserializedResponse.Keys.Contains("message") ?
+                                    deserializedResponse["message"].ToString() :
+                                    (deserializedResponse.Keys.Contains("errors") ?
+                                        deserializedResponse["errors"].ToString().Replace("{", "").Replace("}", "").Replace("[", "").Replace("]", "") :
+                                        "");
+                    }
+
+                    MessageBox.Show(response.Status + ": " + message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
 
         }
