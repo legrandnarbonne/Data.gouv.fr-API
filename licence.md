@@ -1,19 +1,9 @@
 CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-C
 
 
-Copyright ou © ou Copr. 
+Copyright ou © ou Copr. Communauté d'agglomération du Grand Narbonne
 
-[Adresse électronique de l'auteur ou des auteurs]
-
-Ce logiciel est un programme informatique servant à :
-
-Optimisation d’un espace de stockage et/ou d’une base de données:
-En décelant la présence de doublons de fichiers dans un espace de stockage donné, les occupations par utilisateur, par type de fichier ,
-
-Vision RGPD :
-Déceler et remonter des fichiers possédant des données potentiellement sensibles,
-
-
+[j.dapot@legrandnnarbonne.com]
 
 Ce logiciel est régi par la licence CeCILL-C soumise au droit français et
 respectant les principes de diffusion des logiciels libres. Vous pouvez
