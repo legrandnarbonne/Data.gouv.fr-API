@@ -1,70 +1,46 @@
 CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-C
 
 
-    Avertissement
+Copyright ou © ou Copr. 
 
-Ce contrat est une licence de logiciel libre issue d'une concertation
-entre ses auteurs afin que le respect de deux grands principes préside à
-sa rédaction:
+[Adresse électronique de l'auteur ou des auteurs]
 
-    * d'une part, le respect des principes de diffusion des logiciels
-      libres: accès au code source, droits étendus conférés aux
-      utilisateurs,
-    * d'autre part, la désignation d'un droit applicable, le droit
-      français, auquel elle est conforme, tant au regard du droit de la
-      responsabilité civile que du droit de la propriété intellectuelle
-      et de la protection qu'il offre aux auteurs et titulaires des
-      droits patrimoniaux sur un logiciel.
+Ce logiciel est un programme informatique servant à :
 
-Les auteurs de la licence CeCILL-C (pour Ce[a] C[nrs] I[nria] L[ogiciel]
-L[ibre]) sont:
+Optimisation d’un espace de stockage et/ou d’une base de données:
+En décelant la présence de doublons de fichiers dans un espace de stockage donné, les occupations par utilisateur, par type de fichier ,
 
-Commissariat à l'Energie Atomique - CEA, établissement public de
-recherche à caractère scientifique, technique et industriel, dont le
-siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris.
-
-Centre National de la Recherche Scientifique - CNRS, établissement
-public à caractère scientifique et technologique, dont le siège est
-situé 3 rue Michel-Ange, 75794 Paris cedex 16.
-
-Institut National de Recherche en Informatique et en Automatique -
-INRIA, établissement public à caractère scientifique et technologique,
-dont le siège est situé Domaine de Voluceau, Rocquencourt, BP 105, 78153
-Le Chesnay cedex.
+Vision RGPD :
+Déceler et remonter des fichiers possédant des données potentiellement sensibles,
 
 
-    Préambule
 
-Ce contrat est une licence de logiciel libre dont l'objectif est de
-conférer aux utilisateurs la liberté de modifier et de réutiliser le
-logiciel régi par cette licence.
+Ce logiciel est régi par la licence CeCILL-C soumise au droit français et
+respectant les principes de diffusion des logiciels libres. Vous pouvez
+utiliser, modifier et/ou redistribuer ce programme sous les conditions
+de la licence CeCILL-C telle que diffusée par le CEA, le CNRS et l'INRIA 
+sur le site "http://www.cecill.info".
 
-L'exercice de cette liberté est assorti d'une obligation de remettre à
-la disposition de la communauté les modifications apportées au code
-source du logiciel afin de contribuer à son évolution.
+En contrepartie de l'accessibilité au code source et des droits de copie,
+de modification et de redistribution accordés par cette licence, il n'est
+offert aux utilisateurs qu'une garantie limitée.  Pour les mêmes raisons,
+seule une responsabilité restreinte pèse sur l'auteur du programme,  le
+titulaire des droits patrimoniaux et les concédants successifs.
 
-L'accessibilité au code source et les droits de copie, de modification
-et de redistribution qui découlent de ce contrat ont pour contrepartie
-de n'offrir aux utilisateurs qu'une garantie limitée et de ne faire
-peser sur l'auteur du logiciel, le titulaire des droits patrimoniaux et
-les concédants successifs qu'une responsabilité restreinte.
+A cet égard  l'attention de l'utilisateur est attirée sur les risques
+associés au chargement,  à l'utilisation,  à la modification et/ou au
+développement et à la reproduction du logiciel par l'utilisateur étant 
+donné sa spécificité de logiciel libre, qui peut le rendre complexe à 
+manipuler et qui le réserve donc à des développeurs et des professionnels
+avertis possédant  des  connaissances  informatiques approfondies.  Les
+utilisateurs sont donc invités à charger  et  tester  l'adéquation  du
+logiciel à leurs besoins dans des conditions permettant d'assurer la
+sécurité de leurs systèmes et ou de leurs données et, plus généralement, 
+à l'utiliser et l'exploiter dans les mêmes conditions de sécurité. 
 
-A cet égard l'attention de l'utilisateur est attirée sur les risques
-associés au chargement, à l'utilisation, à la modification et/ou au
-développement et à la reproduction du logiciel par l'utilisateur étant
-donné sa spécificité de logiciel libre, qui peut le rendre complexe à
-manipuler et qui le réserve donc à des développeurs ou des
-professionnels avertis possédant des connaissances informatiques
-approfondies. Les utilisateurs sont donc invités à charger et tester
-l'adéquation du logiciel à leurs besoins dans des conditions permettant
-d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus
-généralement, à l'utiliser et l'exploiter dans les mêmes conditions de
-sécurité. Ce contrat peut être reproduit et diffusé librement, sous
-réserve de le conserver en l'état, sans ajout ni suppression de clauses.
-
-Ce contrat est susceptible de s'appliquer à tout logiciel dont le
-titulaire des droits patrimoniaux décide de soumettre l'exploitation aux
-dispositions qu'il contient.
+Le fait que vous puissiez accéder à cet en-tête signifie que vous avez 
+pris connaissance de la licence CeCILL-C, et que vous en avez accepté les
+termes.
 
 
     Article 1 - DEFINITIONS
